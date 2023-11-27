@@ -46,7 +46,7 @@ def initCode():
 
 
 # Page title
-title = "🧩 DemoGPT"
+title = "🧩 Builder"
 
 st.set_page_config(page_title=title)
     
